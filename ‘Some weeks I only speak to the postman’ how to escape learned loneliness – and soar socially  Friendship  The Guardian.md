@@ -1,8 +1,3 @@
----
-created: 2023/02/07
-tags: reading
-source: https://www.theguardian.com/lifeandstyle/2023/feb/02/some-weeks-i-only-speak-to-the-postman-how-to-escape-learned-loneliness-and-soar-socially
----
 # ‘Some weeks I only speak to the postman’ how to escape learned loneliness – and soar socially  Friendship  The Guardian
 
  ![](https://i.guim.co.uk/img/media/cbc68a9de255dead0ebfeac4e0cd9be9d3a9d2e8/0_0_4285_2571/master/4285.jpg?width=1300&quality=45&dpr=2&s=none)
